@@ -1,1 +1,1 @@
-# Implement-SGD-for-linear-regression
+# SGD-Implementation-for-linear-regression
